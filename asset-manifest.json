@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/torrico203/movie_app_2019/static/css/main.861f3a17.chunk.css",
+    "main.js": "/torrico203/movie_app_2019/static/js/main.29c5b58e.chunk.js",
+    "main.js.map": "/torrico203/movie_app_2019/static/js/main.29c5b58e.chunk.js.map",
+    "runtime-main.js": "/torrico203/movie_app_2019/static/js/runtime-main.98822264.js",
+    "runtime-main.js.map": "/torrico203/movie_app_2019/static/js/runtime-main.98822264.js.map",
+    "static/js/2.f83819a9.chunk.js": "/torrico203/movie_app_2019/static/js/2.f83819a9.chunk.js",
+    "static/js/2.f83819a9.chunk.js.map": "/torrico203/movie_app_2019/static/js/2.f83819a9.chunk.js.map",
+    "index.html": "/torrico203/movie_app_2019/index.html",
+    "static/css/main.861f3a17.chunk.css.map": "/torrico203/movie_app_2019/static/css/main.861f3a17.chunk.css.map",
+    "static/js/2.f83819a9.chunk.js.LICENSE.txt": "/torrico203/movie_app_2019/static/js/2.f83819a9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98822264.js",
+    "static/js/2.f83819a9.chunk.js",
+    "static/css/main.861f3a17.chunk.css",
+    "static/js/main.29c5b58e.chunk.js"
+  ]
+}
